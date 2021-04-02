@@ -1,14 +1,19 @@
 TAO Finance
 
-TAO Finance is a decentralized financial system on the Ethereum Network. 
-It consists of a stable currency TAO$ for deposits, investment funds and loans. 
-Stability is maintained by soft pegging the TAO$ to the US$.  
+TAO Finance is a decentralized financial system on the Ethereum and Avalanche Network. 
+It consists of a stable currency TAO$ for deposits, liquidity pools and loans. 
+The TAO$ App is being developed for Android and iPhone.
+
 The supply of TAO$ increases with its market growth.  
-In the development stages TAO$ will be available in liquidity pools on Balancer and Uniswap and direct purchase.  
+In the development stages TAO$ will be available in liquidity pools on Ethereum-Balancer USDT/TAO$,
+the Avalanche-Pangolin AVAX/TAO$ pool  and direct purchase.  
+
+The TAO$ Application Liquidity Pool will be distributed to 50% of the liquidity holders randomly on a sliding scale 
+when the pool size reaches a predetermined level.  
 
 Funds in the deposit vault receive interest and may be used as collateral for loans.
 
-The TAO Finance key differentiator is the Oracle driven TAOBot which receives buy and sell signals for the investment vault.   
+A TAO Finance key differentiator is the Oracle driven TAOBot which receives buy and sell signals for the investment vault.   
 ERC20 coins and tokens are purchased and sold based on their market performance.  
 The hold time of an asset is market and algorithm determined.  
 Depositors in the investment vault receive profit sharing dividends.
